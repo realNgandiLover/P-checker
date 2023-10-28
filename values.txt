@@ -1,0 +1,100 @@
+1 2 2
+a
+
+a a
+a
+
+-----------
+2 2 3
+femur femur femin
+femin femin femin
+
+0 0 -i
+-a -a -ibus
+
+
+Latin thigh (stem + affix)
+
+----------
+
+2 2 3
+a b b
+b b b
+
+c c c
+c d d
+
+Icelandic
+
+
+-------
+2 2 3
+er ih ih
+sie sie ih
+
+0 -n -m
+0 0 -nen
+
+Modern German personal pronouns (stem + affix)
+
+-------------
+
+3 2 3
+a a b
+b b b
+
+a a b
+b b b
+
+b b b
+b b b
+
+Classical Greek 'Great' Stem
+
+-------
+1 2 3
+
+a bbbbb cxx
+a cxx bbbbb
+
+test case
+
+-------
+
+4 2 3
+i t t
+t t t
+
+t t t
+j t sa
+
+0 -e -ji
+-a -a -yre
+
+-o -e -j
+-o -o -yre
+
+Albanian distal demonstrative (stem + affix)
+
+-----------
+
+
+4 2 3
+
+a b b
+b b b
+
+c c c
+d d c
+
+d e f
+g g h
+
+t t m
+u u m
+
+Old Saxon 3M + DEM.N
+
+--------
+
+
